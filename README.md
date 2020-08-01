@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am Lalit Saini, 3<sup>rd</sup> year Undergradute at IIT Bombay, majoring in Electrical Engineering and minoring in Computer Science and Engineering.
 
+**Contact me:** lalitpsaini@gmail.com
 <!--
 **codeLAlit/codeLAlit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
