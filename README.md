@@ -1,18 +1,15 @@
 ### Hi there 👋
 I am Lalit Saini, 3<sup>rd</sup> year Undergradute at IIT Bombay, majoring in Electrical Engineering and minoring in Computer Science and Engineering.
 
+**Interests:**
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Image Processing
+- Computer Networking
+- Microprocessors
+- Digital Design
+- Software Development
+
 **Contact me:** lalitpsaini@gmail.com
-<!--
-**codeLAlit/codeLAlit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
